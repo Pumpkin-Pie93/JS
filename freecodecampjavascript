@@ -4,3 +4,6 @@ const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Escape-последов
 const myStr = "This is the start." + " This is the end."; // Change this line//сложение трок
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";//приставление строки для заданной переменной 
+// Only change code below this line
+const myName = "Polina";
+const myStr = "My name is" + myName + "and I am well!"; переменная в строке
