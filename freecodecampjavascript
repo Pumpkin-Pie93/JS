@@ -2,3 +2,5 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Ch
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';  //одинарные и двойные кавычки
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Escape-последовательности в строках
 const myStr = "This is the start." + " This is the end."; // Change this line//сложение трок
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";//приставление строки для заданной переменной 
