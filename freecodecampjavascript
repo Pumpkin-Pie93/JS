@@ -7,3 +7,7 @@ myStr += "This is the second sentence.";//приставление строки 
 // Only change code below this line
 const myName = "Polina";
 const myStr = "My name is" + myName + "and I am well!"; переменная в строке
+// Change code below this line
+const someAdjective = "funny!";
+let myStr = "Learning to code is ";
+myStr += someAdjective;//сложение переменных со строчными элементами
