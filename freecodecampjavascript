@@ -20,3 +20,10 @@ const lastName = "Lovelace";
 lastNameLength = lastName.length;
 lastNameLength.length;
 //конец примера!!!!
+// Setup найти первую букву в переменной
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
+//конец применра
