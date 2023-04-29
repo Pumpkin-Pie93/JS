@@ -11,3 +11,12 @@ const myStr = "My name is" + myName + "and I am well!"; переменная в 
 const someAdjective = "funny!";
 let myStr = "Learning to code is ";
 myStr += someAdjective;//сложение переменных со строчными элементами
+//узнаем длину строки или переменной со строкой!!!!
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+lastNameLength.length;
+//конец примера!!!!
