@@ -65,3 +65,6 @@ const wordBlanks = "Our " + myNoun + " " + "is " + myAdjective + ", and it " + m
 
 // Only change code below this line
 const myArray = ["string", 8];
+
+const myArray = [50, 60, 70];
+let myData = myArray[0];
