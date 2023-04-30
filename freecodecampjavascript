@@ -63,4 +63,5 @@ const myAdverb = "quickly";
 const wordBlanks = "Our " + myNoun + " " + "is " + myAdjective + ", and it " + myVerb + " " + "very " + myAdverb + "."; // Change this line
 // Only change code above this line
 
-
+// Only change code below this line
+const myArray = ["string", 8];
