@@ -6,9 +6,9 @@ The nextInLine function should then return the element that was removed.*/
 
 function nextInLine(arr, item) {
   // Only change code below this line
-  let arr = arr.puch(item);
-  arr.shift();
-  return item;
+  arr.push(item);
+  const numOut =  arr.shift();
+  return numOut;
   // Only change code above this line
 }
 
